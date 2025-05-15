@@ -17,11 +17,3 @@ const addCourse = (course) => {
 const delCourse = (course) => {
     return true
 }
-
-const test = () => {
-    return false
-}
-
-const setTicket = () => {
-    return true
-}
